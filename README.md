@@ -57,5 +57,5 @@ Dự án Business Intelligence (BI) này tập trung vào việc phân tích d�
 
 ## 📁 Tệp dự án
 - `Retail_Sales_Transactions_BI.ipynb`: File Python dùng để làm sạch dữ liệu
-- Các file `.csv`: dữ liệu sau xử lý để import vào SQL Server
-- File báo cáo Power BI (`.pbix`): chưa bao gồm trong thư mục này
+- Các file `.csv`: dữ liệu ban đầu
+- File báo cáo Power BI (`.pbix`)
